@@ -19,3 +19,14 @@ Thumbs.db
 *.tmp
 *.bak
 ~$*
+
+# Images stay local and are not stored in Git
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.avif
+*.bmp
+*.ico
+*.svg
